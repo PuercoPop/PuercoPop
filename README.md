@@ -19,6 +19,6 @@ I go as @PuercoPop on the intertubes. On freenode I hangout on #stumpwm and #lis
 
 ### Obligatory :poop:-post
 
-![meme](./confused-alien-module-meme.jpg)
+<img src="https://imgur.com/BSKtXDC" width="240px" height="240px+ align="center">
 
 [cl-xcb]: https://code.puercopop.com/cl-xcb.git/
