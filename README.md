@@ -7,18 +7,3 @@ My main interest is writing hackable applications.
 My ideal DE would be driven from a REPL where each application would be a function.
 
 I go as @PuercoPop on the intertubes. On freenode I hangout on #stumpwm and #lisp.
-
-### Currently learning :mag:
-
-- [ ] APL.
-- [ ] Prolog.
-
-### Currently writing :shipit:
-
-- [cl-xcb]
-
-### Obligatory :poop:-post
-
-<img src="https://i.imgur.com/BSKtXDC.jpg" width="320" height="240" align="center">
-
-[cl-xcb]: https://code.puercopop.com/cl-xcb.git/
